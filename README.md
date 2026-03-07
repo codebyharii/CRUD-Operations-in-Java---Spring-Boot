@@ -30,7 +30,7 @@ IntelliJ IDEA
 
 Git / GitHub
 
-✔ Project Flow
+✔ Project Flow--
 
 Controller → Service → Repository → In-Memory Data Storage
 
