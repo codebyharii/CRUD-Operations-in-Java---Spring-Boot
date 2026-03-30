@@ -18,7 +18,7 @@ Controller Layer exposing REST APIs
 
 Spring Boot application running on port 8080
 
-✔ Technologies Used
+ Technologies Used
 
 Java
 
@@ -30,7 +30,7 @@ IntelliJ IDEA
 
 Git / GitHub
 
-✔ Project Flow--
+Project Flow--
 
 Controller → Service → Repository → In-Memory Data Storage
 
